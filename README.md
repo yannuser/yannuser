@@ -40,7 +40,7 @@ I'm a passionate and detail-oriented software engineering student pursuing a **B
 ## 📫 Connect with Me
 
 - **Email:** [hief01@uqo.ca](mailto:hief01@uqo.ca) | [hienpollo@gmail.com](mailto:hienpollo@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/florian-yann-ollo-hien-0b603a287/)
 - **Location:** Gatineau, Québec, Canada
 - **GitHub:** [yannuser](https://github.com/yannuser)
 
