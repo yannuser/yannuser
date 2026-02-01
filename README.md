@@ -2,7 +2,7 @@
 
 **Software Engineer | Computer Science Student @ UQO**
 
-I'm a passionate and detail-oriented software engineering student pursuing a **Bachelor of Computer Science** at the **Université du Québec en Outaouais**. I love building efficient, scalable applications and have hands-on experience across the full stack — from MVC patterns to modern JavaScript frameworks.
+I'm a passionate and detail-oriented software engineering student pursuing a **Bachelor of Computer Science** at the **Université du Québec en Outaouais**. I love building efficient, scalable applications and have hands-on experience across the full stack.
 
 ---
 
@@ -37,48 +37,11 @@ I'm a passionate and detail-oriented software engineering student pursuing a **B
 
 ---
 
-## 📁 Featured Projects
-
-### 🏠 Real Estate Web App
-A responsive front-end application built with **React** and **JavaScript** to streamline property search and visualization.
-- **Tech:** React, JavaScript, CSS3
-- **Features:** Property filtering, dynamic UI, responsive design
-- **Live Demo:** [Link to Live App](#) | **Code:** [GitHub Repo](#)
-
-### 💻 Fullstack JavaScript Bootcamp Projects
-Intensive training through **GOMYCODE**, building end-to-end applications using the **MERN stack**.
-- **Tech:** MongoDB, Express.js, React.js, Node.js
-- **Key Projects:** E-commerce platform, Task manager, Blog API
-
-*(Add more project cards here with icons, brief descriptions, and links)*
-
----
-
-## 💼 Professional Experience
-
-### **Software Engineering Intern** | *BNETD, Abidjan*
-- Contributed to development projects in a professional Agile environment.
-- Assisted in debugging, feature implementation, and team-based workflows.
-
-### **Summer Camp Facilitator** | *Le Cercle des Canadiens Francophones, Prince George, BC*
-- Developed strong communication and leadership skills in a multicultural setting.
-- Organized and supervised engaging activities for youth.
-
----
-
 ## 🎓 Education & Certifications
 
 - **Bachelor of Computer Science** – *Université du Québec en Outaouais (Current)*  
 - **Fullstack JavaScript Bootcamp** – *GOMYCODE*  
 - **Software Engineering Studies** – *Institut Ivoirien de Technologie (2021–2023)*  
-
----
-
-## 📊 GitHub Stats
-
-![Yann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannuser&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannuser&layout=compact&theme=radical)
 
 ---
 
