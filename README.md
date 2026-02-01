@@ -37,14 +37,6 @@ I'm a passionate and detail-oriented software engineering student pursuing a **B
 
 ---
 
-## 🎓 Education & Certifications
-
-- **Bachelor of Computer Science** – *Université du Québec en Outaouais (Current)*  
-- **Fullstack JavaScript Bootcamp** – *GOMYCODE*  
-- **Software Engineering Studies** – *Institut Ivoirien de Technologie (2021–2023)*  
-
----
-
 ## 📫 Connect with Me
 
 - **Email:** [hief01@uqo.ca](mailto:hief01@uqo.ca) | [hienpollo@gmail.com](mailto:hienpollo@gmail.com)
