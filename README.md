@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Florian Yann Ollo Hien
 
-**Software Engineer | Computer Science Student @ UQO**
+**Software Engineer | Computer Science Student**
 
 I'm a passionate and detail-oriented software engineering student pursuing a **Bachelor of Computer Science** at the **Université du Québec en Outaouais**. I love building efficient, scalable applications and have hands-on experience across the full stack.
 
