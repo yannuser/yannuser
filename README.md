@@ -2,7 +2,7 @@
 
 **Software Engineer | Computer Science Student**
 
-I'm a passionate and detail-oriented software engineering student pursuing a **Bachelor of Computer Science** at the **Université du Québec en Outaouais**. I love building efficient, scalable applications and have hands-on experience across the full stack.
+I'm a passionate and detail-oriented software engineer. I love building efficient, scalable applications and have hands-on experience across the full stack.
 
 ---
 
@@ -42,7 +42,6 @@ I'm a passionate and detail-oriented software engineering student pursuing a **B
 - **Email:** [hief01@uqo.ca](mailto:hief01@uqo.ca) | [hienpollo@gmail.com](mailto:hienpollo@gmail.com)
 - **LinkedIn:** [Florian Yann Ollo Hien](https://www.linkedin.com/in/florian-yann-ollo-hien-0b603a287/)
 - **Location:** Québec, Canada
-- **GitHub:** [yannuser](https://github.com/yannuser)
 
 ---
 
