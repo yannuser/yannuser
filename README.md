@@ -45,4 +45,4 @@ I'm a passionate and detail-oriented software engineer. I love building efficien
 
 ---
 
-⭐ *Feel free to explore my repositories and get in touch if you’d like to collaborate!*
+*Feel free to explore my repositories and get in touch if you’d like to collaborate!*
