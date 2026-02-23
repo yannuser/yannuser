@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Florian Yann Ollo Hien
+# Hey, I'm Florian Yann Ollo Hien
 
 **Software Engineer | Computer Science Student**
 
@@ -6,7 +6,7 @@ I'm a passionate and detail-oriented software engineer. I love building efficien
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -37,7 +37,7 @@ I'm a passionate and detail-oriented software engineer. I love building efficien
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **Email:** [hief01@uqo.ca](mailto:hief01@uqo.ca) | [hienpollo@gmail.com](mailto:hienpollo@gmail.com)
 - **LinkedIn:** [Florian Yann Ollo Hien](https://www.linkedin.com/in/florian-yann-ollo-hien-0b603a287/)
