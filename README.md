@@ -2,8 +2,6 @@
 
 **Software Engineer | Computer Science Student**
 
-I'm a passionate and detail-oriented software engineer. I love building efficient, scalable applications and have hands-on experience across the full stack.
-
 ---
 
 ## Technologies & Tools
@@ -28,12 +26,6 @@ I'm a passionate and detail-oriented software engineer. I love building efficien
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
-### **Soft Skills**
-- Problem Solving & Analytical Thinking
-- Adaptability & Quick Learning
-- Team Collaboration & Communication
-- Project Planning & Time Management
 
 ---
 
